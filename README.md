@@ -1,5 +1,5 @@
 ### Hola 👋 (Namaste), I am Dhanyashree Gowda.
-<img src="/Users/dhanyashreegowda/Downloads/WhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg.jpg" align="right">
+<img src="/Users/dhanyashreegowda/Downloads/WhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg" align="right">
 
 
 <!--
