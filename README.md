@@ -3,7 +3,7 @@
 - 🌱 I’m currently aspiring to be a Data Scientist.
 - 👯 I’m looking to collaborate on Project work.
 - 💬 Ask me about my transition from  📈Commerce background and being a 👩‍🏫Teacher finally into 🤖Tech.
-- ⚡ Fun fact: Traveller, Artist, Dancer, Gardner, Cook.
+- ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.
 
 
 
