@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋 (Namaste), I am Dhanyashree Gowda.
+<img src="/Users/dhanyashreegowda/Downloads/WhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg.jpg" align="right">
+
 
 <!--
 **Dhanyashree03/Dhanyashree03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
