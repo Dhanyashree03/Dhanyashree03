@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on Project work.
 - 💬 Ask me about my transition from  📈Commerce background and being a 👩‍🏫Teacher finally into 🤖Tech.
 - ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.
+<img src="https://pyblog.xyz//Users/dhanyashreegowda/DownloadsWhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg" align="right">
 
 
 
