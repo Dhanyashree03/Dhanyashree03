@@ -1,6 +1,6 @@
 ### Hola 👋 (Namaste), I am Dhanyashree Gowda.
 - 🔭 I’m currently working on myself.
-- 🌱 I’m currently aspiring to be a Data Scientist.
+- 🌱 I’m a certified Data Scientist.
 - 👯 I’m looking to collaborate on Project work.
 - 💬 Ask me about my transition from  📈Commerce background and being a 👩‍🏫Teacher finally into 🤖Tech.
 - ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.(Creativity runs in my Mind)
