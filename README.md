@@ -1,4 +1,5 @@
-### Hola 👋 (Namaste), I am Dhanyashree Gowda.
+## Hello, folks!👋
+### I am Dhanyashree Gowda.
 - 🔭 I’m currently working on myself.
 - 🌱 I’m a certified Data Scientist.
 - 👯 I’m looking to collaborate on more Open Source Projects.
@@ -6,6 +7,10 @@
 - 📫 How to reach me: Say 👋  on  <a href="mailto:gowdadhanyashree03@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.
 <img src="https://pyblog.xyz//Users/dhanyashreegowda/DownloadsWhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg" align="right">
+
+##  🛠 Technologies and Tools
+
+![image]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
 
 
 
