@@ -1,9 +1,10 @@
 ### Hola 👋 (Namaste), I am Dhanyashree Gowda.
 - 🔭 I’m currently working on myself.
 - 🌱 I’m a certified Data Scientist.
-- 👯 I’m looking to collaborate on Project work.
+- 👯 I’m looking to collaborate on more Open Source Projects.
 - 💬 Ask me about my transition from  📈Commerce background and being a 👩‍🏫Teacher finally into 🤖Tech.
-- ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.(Creativity runs in my Mind)
+- 📫 How to reach me: Say 👋  on  <a href="mailto:gowdadhanyashree03@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.
 <img src="https://pyblog.xyz//Users/dhanyashreegowda/DownloadsWhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg" align="right">
 
 
