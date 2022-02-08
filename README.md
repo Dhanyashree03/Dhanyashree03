@@ -6,11 +6,8 @@
 - 💬 Ask me about my transition from  📈Commerce background and being a 👩‍🏫Teacher finally into 🤖Tech.
 - 📫 How to reach me: Say 👋  on  <a href="mailto:gowdadhanyashree03@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - ⚡ Fun fact: I'm a Traveller, Artist, Dancer, Gardner, Cook.
-<img src="https://pyblog.xyz//Users/dhanyashreegowda/DownloadsWhatsApp Image 2022-02-06 at 2.49.32 PM.jpeg" align="right">
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
-##  🛠 Technologies and Tools
-
-![image]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
 
 
 
