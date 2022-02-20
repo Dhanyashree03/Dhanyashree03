@@ -28,10 +28,10 @@
 
 </p> 
 
-  
+ 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Dhanyashree03/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhanyashree03">
 </a>
 <a href="https://github.com/Dhanyashree03?tab=followers"><img src="https://img.shields.io/github/followers/Dhanyashree03?label=Followers&style=social" alt="GitHub Badge"></a>
