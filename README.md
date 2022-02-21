@@ -19,17 +19,17 @@
 </p>
 
 
-## Connect with me:
+## 📫 Connect with me:
 <p align="left">
  <a href = "https://www.linkedin.com/in/dhanyashree-gowda-7202a4232/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!--
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p> 
 
-## 🚀 Languages and Tools:
+## Views and Followers:
+
 
 <a href="https://github.com/Dhanyashree03/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhanyashree03">
@@ -45,3 +45,4 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanyashree Gowda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanyashree03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+![image](https://user-images.githubusercontent.com/98444417/154948845-bd75bc5e-881a-430c-b609-a98746cd5cd1.png)
