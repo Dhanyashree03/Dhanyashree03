@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/98444417/153049484-842c382b-4b7c-4fda-b16b-253a9889e85b.jpeg" align="right">
 
 ## Hello, folks!👋
+
 ### I am Dhanyashree Gowda.
 - 🔭 I’m currently working on myself.
 - 🌱 I’m a certified Data Scientist.
@@ -28,9 +29,19 @@
 
 </p> 
 
- 
+## Connect with me:
+<p align="left">
+ <a href = "https://www.linkedin.com/in/dhanyashree-gowda-7202a4232/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!--
+<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-## ❤ Views and Followers
+</p> 
+
+## hi Connect with me:
+
+<p align="left">
 <a href="https://github.com/Dhanyashree03/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhanyashree03">
 </a>
