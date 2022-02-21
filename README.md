@@ -32,7 +32,8 @@
 </p> 
 
 
-### Views and Followers:
+## Views and Followers:
+
 <a href="https://github.com/Dhanyashree03/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhanyashree03">
 </a>
