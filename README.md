@@ -16,6 +16,9 @@
 <p align="left"> 
       <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+        <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/tableau-software.png"/> </a> 
+        <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/r.png"/> </a>                                                                                                            
+
 </p>
 
 
@@ -28,9 +31,8 @@
 <a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p> 
 
-## Views and Followers:
 
-
+### Views and Followers:
 <a href="https://github.com/Dhanyashree03/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhanyashree03">
 </a>
@@ -45,4 +47,3 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanyashree Gowda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanyashree03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-![image](https://user-images.githubusercontent.com/98444417/154948845-bd75bc5e-881a-430c-b609-a98746cd5cd1.png)
