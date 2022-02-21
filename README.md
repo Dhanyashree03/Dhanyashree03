@@ -29,19 +29,8 @@
 
 </p> 
 
-## Connect with me:
-<p align="left">
- <a href = "https://www.linkedin.com/in/dhanyashree-gowda-7202a4232/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!--
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/gowdadhanyashree/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+## 🚀 Languages and Tools:
 
-</p> 
-
-## hi Connect with me:
-
-<p align="left">
 <a href="https://github.com/Dhanyashree03/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhanyashree03">
 </a>
@@ -56,11 +45,3 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanyashree Gowda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanyashree03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
-
-
-
-
-
-
