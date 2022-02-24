@@ -4,7 +4,7 @@
 
 ### I am Dhanyashree Gowda.
 - 🔭 I’m currently working on myself.
-- 🌱 I’m a certified Data Scientist.
+- 🌱 I’m a certified Data Science Student.
 - 👯 I’m looking to collaborate on more Open Source Projects.
 - 💬 Ask me about my transition from  📈Commerce background and being a 👩‍🏫Teacher finally into 🤖Tech.
 - 📫 How to reach me: Say 👋  on  <a href="mailto:gowdadhanyashree03@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
